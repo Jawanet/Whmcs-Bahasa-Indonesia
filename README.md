@@ -1,6 +1,10 @@
 # Whmcs-Bahasa-Indonesia
 Bahasa indonesia untuk WHMCS Billing Hosting
 
+Need Contribution To Translate English To Indonesia
+Butuh Bantuan Untuk menerjemahkan Bahasa dari Inggris Ke Bahasa Indonesia
+
+
 # Whmcs Version
 6.3.x
 7.0.1
