@@ -8,7 +8,7 @@
  *   http://docs.whmcs.com/Language_Overrides
  *
  * @package    WHMCS
- * @author     Hendra <hendra@jawanet.com>
+ * @author     Indonesia Webhoster Community <hendra@jawanet.com>
  * @copyright  Copyright (c) Jawanet 2016
  * @version    $Id$
  * @link       http://www.jawanet.com/
@@ -44,9 +44,9 @@ $_LANG['affiliatesfootertext'] = "When you refer someone to our website with you
 $_LANG['affiliateshostingpackage'] = "Hosting Package";
 $_LANG['affiliatesintrotext'] = "Activate your affiliate account today to:";
 $_LANG['affiliateslinktous'] = "Link to Us";
-$_LANG['affiliatesnosignups'] = "You have currently not received any signups";
+$_LANG['affiliatesnosignups'] = "Anda belum mempunyai pendaftar dari referal anda";
 $_LANG['affiliatesrealtime'] = "These statistics are in real time and update instantly";
-$_LANG['affiliatesreferallink'] = "Your Unique Referral Link";
+$_LANG['affiliatesreferallink'] = "Link Unik Rejukan Anda";
 $_LANG['affiliatesreferals'] = "Your referrals";
 $_LANG['affiliatesregdate'] = "Registration Date";
 $_LANG['affiliatesrequestwithdrawal'] = "Request Withdrawal";
