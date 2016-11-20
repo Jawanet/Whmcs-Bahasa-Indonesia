@@ -1,5 +1,5 @@
 # Whmcs-Bahasa-Indonesia
-Bahasa indonesia untuk WHMCS Billing Hosting
+WHMCS Billing Hosting
 
 Need Contribution To Translate English To Indonesia.
 
