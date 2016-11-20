@@ -7,6 +7,7 @@ Butuh Bantuan Untuk menerjemahkan Bahasa dari Inggris Ke Bahasa Indonesia
 
 
 # Whmcs Version
-6.3.x
+
 7.0.1
 7.0.2
+7.1 Beta
