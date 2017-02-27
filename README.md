@@ -10,4 +10,5 @@ Butuh Bantuan Untuk menerjemahkan Bahasa dari Inggris Ke Bahasa Indonesia
 
 - 7.0.1
 - 7.0.2
-- 7.1 Beta 1, Add Support
+- 7.1.0
+- 7.1.2
