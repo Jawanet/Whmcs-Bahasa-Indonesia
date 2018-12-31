@@ -1610,48 +1610,48 @@ $_LANG['masspaymentselectgateway'] = "Select Mass Payment Gateway";
 $_LANG['ticketfeedbackrequest'] = "Feedback Request";
 $_LANG['ticketfeedbackforticket'] = "for Ticket #";
 
-$_LANG['notifications'] = "Notifications";
-$_LANG['notificationsnone'] = "You have no notifications at this time.";
+$_LANG['notifications'] = "Notifikasi";
+$_LANG['notificationsnone'] = "Anda tidak memiliki pemberitahuan saat ini.";
 
-$_LANG['creditcardnonestored'] = "No card on file";
+$_LANG['creditcardnonestored'] = "Tidak ada kartu kredit di file";
 
-$_LANG['kbviewingarticlestagged'] = "Viewing articles tagged";
+$_LANG['kbviewingarticlestagged'] = "Melihat artikel yang ditandai";
 
 $_LANG['domainprivatenameservers'] = "Private Nameservers";
 
 $_LANG['transferinadomain'] = "Transfer in a Domain";
 
-$_LANG['nodomainextensions'] = "There are no Domain Extensions currently configured for purchase";
+$_LANG['nodomainextensions'] = "Saat ini tidak ada Ekstensi Domain yang dikonfigurasi untuk pembelian";
 
-$_LANG['homebegin'] = "Begin the search for your perfect domain name...";
-$_LANG['howcanwehelp'] = "How can we help today?";
-$_LANG['exampledomain'] = "eg. example.com";
-$_LANG['buyadomain'] = "Buy A Domain";
-$_LANG['orderhosting'] = "Order Hosting";
-$_LANG['makepayment'] = "Make Payment";
-$_LANG['getsupport'] = "Get Support";
+$_LANG['homebegin'] = "Mulai pencarian untuk nama domain Anda yang sempurna ...";
+$_LANG['howcanwehelp'] = "Bagaimana kami dapat membantu hari ini?";
+$_LANG['exampledomain'] = "contoh. nama.com";
+$_LANG['buyadomain'] = "Beli Domain";
+$_LANG['orderhosting'] = "Pesan Hosting";
+$_LANG['makepayment'] = "Melakukan pembayaran";
+$_LANG['getsupport'] = "Dapatkan Bantuan";
 
-$_LANG['news'] = "News";
-$_LANG['allthelatest'] = "All the latest from";
-$_LANG['readmore'] = "Read More";
-$_LANG['noannouncements'] = "No announcements to display";
+$_LANG['news'] = "Berita";
+$_LANG['allthelatest'] = "Semua yang terbaru";
+$_LANG['readmore'] = "Selengkapnya";
+$_LANG['noannouncements'] = "Tidak ada pengumuman ditampilkan";
 
-$_LANG['kbsearchexplain'] = "Have a question? Start your search here.";
-$_LANG['readyforquestions'] = "We're ready and waiting for your questions";
+$_LANG['kbsearchexplain'] = "Punya pertanyaan? Mulai pencarian anda disini.";
+$_LANG['readyforquestions'] = "Kami siap dan menunggu pertanyaan Anda";
 
-$_LANG['restrictedpage'] = "This page is restricted";
-$_LANG['enteremail'] = "Enter email";
+$_LANG['restrictedpage'] = "Halaman ini dibatasi.";
+$_LANG['enteremail'] = "Masukkan email";
 
-$_LANG['passwordtips'] = "<strong>Tips for a good password</strong><br />Use both upper and lowercase characters<br />Include at least one symbol (# $ ! % &amp; etc...)<br />Don't use dictionary words";
+$_LANG['passwordtips'] = "<strong>Kiat untuk kata sandi yang baik</strong><br />Gunakan karakter huruf besar dan kecil<br />Sertakan setidaknya satu simbol (# $ ! % &amp; etc...)<br />Jangan gunakan kata-kata kamus";
 
 $_LANG['regdate'] = "Reg Date";
 $_LANG['nextdue'] = "Next Due";
 
-$_LANG['findyourdomain'] = "Find your new domain name";
-$_LANG['searchtermrequired'] = "You must enter a domain name or keyword to look for";
+$_LANG['findyourdomain'] = "Temukan nama domain baru Anda";
+$_LANG['searchtermrequired'] = "Anda harus memasukkan nama domain atau kata kunci yang akan dicari";
 $_LANG['unabletolookup'] = "Sorry, unable to lookup the term as provided";
-$_LANG['invalidchars'] = "Please remove spaces or special punctuation characters";
-$_LANG['bulkoptions'] = "Bulk Options";
+$_LANG['invalidchars'] = "Harap hapus spasi atau karakter tanda baca khusus";
+$_LANG['bulkoptions'] = "Opsi Massal";
 $_LANG['checkingdomain'] = "Checking if the domain you requested is available...";
 $_LANG['domainsgotocheckout'] = "Go to checkout";
 $_LANG['domainssearchresults'] = "Search Results";
