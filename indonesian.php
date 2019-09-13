@@ -1,11 +1,11 @@
 <?php
 /**
- * WHMCS Language File
+ * WHMCS Language Files
  * Indonesia (id)
  *
  *
  * For instructions on overrides, please visit:
- *   http://docs.whmcs.com/Language_Overrides
+ * http://docs.whmcs.com/Language_Overrides
  *
  * @package    WHMCS
  * @author     Indonesia Webhoster Community <hendra@jawanet.com>
